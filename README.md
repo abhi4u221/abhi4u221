@@ -6,9 +6,9 @@ Motivated Data Analyst with a strong foundation in computer science, equipped wi
 I’m eager to apply my technical expertise and contribute to innovative, data-driven projects. Let’s connect if you need a dedicated, analytical mind to help uncover insights and create impactful solutions.
 
 
-## 🎓 Education  
-National Institute of Technology (NITH), Hamirpur  
-Dual Degree in Computer Science and Engineering (B.Tech and M.Tech)
+## 🎓 Education   
+Dual Degree in Computer Science and Engineering (B.Tech and M.Tech)  
+National Institute of Technology (NITH), Hamirpur 
 
 
 ## 🛠️ Tools & Technologies  
