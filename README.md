@@ -6,18 +6,18 @@ Motivated Data Analyst with a strong foundation in computer science, equipped wi
 I’m eager to apply my technical expertise and contribute to innovative, data-driven projects. Let’s connect if you need a dedicated, analytical mind to help uncover insights and create impactful solutions.
 
 
-🎓 Education
+🎓 Education  
 National Institute of Technology, Hamirpur  
 Dual Degree in Computer Science and Engineering (B.Tech + M.Tech)
 
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies  
 Languages: Python, SQL  
 Databases: MySQL, PostgreSQL, Microsoft SQL Server  
 Data Analytics: Power BI, Excel, Jupyter Notebook  
 Version Control: Git  
 
-📫 Contact Me
+📫 Contact Me  
 Email: abhisheksuraj221@gmail.com  
 LinkedIn: linkedin.com/in/abhisheksuraj41  
 GitHub: github.com/abhi4u221  
