@@ -12,14 +12,14 @@ Dual Degree in Computer Science and Engineering (B.Tech + M.Tech)
 
 
 🛠️ Tools & Technologies  
-Languages: Python, SQL  
-Databases: MySQL, PostgreSQL, Microsoft SQL Server  
-Data Analytics: Power BI, Excel, Jupyter Notebook  
-Version Control: Git  
+**Languages:** Python, SQL  
+**Databases:** MySQL, PostgreSQL, Microsoft SQL Server  
+**Data Analytics:** Power BI, Excel, Jupyter Notebook  
+**Version Control:** Git  
 
 📫 Contact Me  
-Email: abhisheksuraj221@gmail.com    
-LinkedIn: [linkedin.com/in/abhisheksuraj41](https://www.linkedin.com/in/abhisheksuraj41)   
-GitHub: [github.com/abhi4u221](https://www.github.com/abhi4u221)    
+**Email:** abhisheksuraj221@gmail.com    
+**LinkedIn:** [linkedin.com/in/abhisheksuraj41](https://www.linkedin.com/in/abhisheksuraj41)   
+**GitHub:** [github.com/abhi4u221](https://www.github.com/abhi4u221)    
 
 
