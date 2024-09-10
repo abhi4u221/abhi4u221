@@ -8,7 +8,7 @@ I’m eager to apply my technical expertise and contribute to innovative, data-d
 
 🎓 Education
 
-National Institute of Technology, Hamirpur
+National Institute of Technology, Hamirpur  
 Dual Degree in Computer Science and Engineering (B.Tech + M.Tech)
 
 
