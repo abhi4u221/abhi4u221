@@ -18,8 +18,8 @@ Data Analytics: Power BI, Excel, Jupyter Notebook
 Version Control: Git  
 
 📫 Contact Me  
-Email: abhisheksuraj221@gmail.com  
-LinkedIn: linkedin.com/in/abhisheksuraj41  
-GitHub: github.com/abhi4u221  
+Email: abhisheksuraj221@gmail.com    
+LinkedIn: [linkedin.com/in/abhisheksuraj41](https://www.linkedin.com/in/abhisheksuraj41)   
+GitHub: [github.com/abhi4u221](https://www.github.com/abhi4u221)    
 
 
